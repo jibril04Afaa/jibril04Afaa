@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning machine learning with Python
 - 💞️ I’m looking to collaborate on Open Source, Full-Stack projects, and Hackathons
 - 📫 How to reach me jibrilBA04@gmail.com
-- ⚡ Fun fact: I'm an international student from 🇬🇭
+- ⚡ Fun fact: Every 60 seconds in Africa, a minute passes
 
